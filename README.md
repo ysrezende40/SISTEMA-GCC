@@ -2,6 +2,10 @@
 
 O Sistema de Gerência Comercial de Cargas é uma aplicação desenvolvida em C# para otimizar e automatizar processos no setor de gerência comercial do Aeroporto Internacional de Viracopos.
 
+
+![Logo dos sistema](SISTEMA-GCC/IMAGENS_SISTEMA_GCC/Sistema GCC.png)
+
+
 ## Objetivo
 
 O foco primordial deste sistema é a geração de relatórios detalhados e precisos a partir dos dados relacionados ao gerenciamento de cargas. Com uma interface gráfica intuitiva construída com Windows Form, proporciona uma experiência amigável e eficiente aos usuários.
