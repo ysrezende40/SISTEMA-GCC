@@ -9,12 +9,14 @@ O foco primordial deste sistema é a geração de relatórios detalhados e preci
 ## Funcionalidades Principais
 O Sistema de Gerência Comercial de Cargas oferece funcionalidades avançadas de consulta de dados, permitindo buscar informações com base no nome das empresas ou datas específicas. Esta capacidade permite dois tipos distintos de relatórios, cada um direcionado para fornecer insights precisos:
 
-##Relatório de Inventário
+## Relatório de Inventário
+
 Este relatório lista todas as cargas atualmente armazenadas em nosso terminal de cargas para uma empresa específica. Essa funcionalidade permite uma visão abrangente do inventário, facilitando o acompanhamento e a gestão das mercadorias em nosso terminal.
 Os dados dos relatórios são enviados aos clientes em planilhas por e-mail. Isso agiliza a retirada das cargas, evita cobranças desnecessárias e ajuda os clientes a gerenciar e evitar perdas ou esquecimentos de mercadorias.
 Esse processo não só simplifica a retirada, mas também fortalece a transparência e a comunicação com os clientes, garantindo um serviço mais eficiente e alinhado às necessidades deles.
 
-##Relatório da Receita Federal
+## Relatório da Receita Federal
+
 O relatório da Receita Federal é focado em listar todas as cargas que chegaram ao aeroporto dentro de um intervalo de datas definido pelo usuário. Essa ferramenta é valiosa para acompanhar o fluxo de mercadorias ao longo do tempo, fornecendo informações essenciais para conformidade e controle.
 Ambos os tipos de relatórios possibilitam a exportação dos dados para o Excel. Essa funcionalidade é estratégica, pois facilita a visualização, análise e compartilhamento dos dados, fornecendo uma maneira eficaz e familiar para os usuários explorarem as informações detalhadas obtidas por meio das consultas.
 
