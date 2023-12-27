@@ -13,23 +13,33 @@ O foco primordial deste sistema é a geração de relatórios detalhados e preci
 O Sistema de Gerência Comercial de Cargas oferece funcionalidades avançadas de consulta de dados, permitindo buscar informações com base no nome das empresas ou datas específicas. Esta capacidade permite dois tipos distintos de relatórios, cada um direcionado para fornecer insights precisos:
 
 ## Relatório de Inventário
-
+![tela inventario](IMAGENS_SISTEMA_GCC/telainventario.png)
 Este relatório lista todas as cargas atualmente armazenadas em nosso terminal de cargas para uma empresa específica. Essa funcionalidade permite uma visão abrangente do inventário, facilitando o acompanhamento e a gestão das mercadorias em nosso terminal.
 Os dados dos relatórios são enviados aos clientes em planilhas por e-mail. Isso agiliza a retirada das cargas, evita cobranças desnecessárias e ajuda os clientes a gerenciar e evitar perdas ou esquecimentos de mercadorias.
 Esse processo não só simplifica a retirada, mas também fortalece a transparência e a comunicação com os clientes, garantindo um serviço mais eficiente e alinhado às necessidades deles.
+![tela inventario com o gif](IMAGENS_SISTEMA_GCC/telainventario2.png)
+![tela inventario com a planilha 1](IMAGENS_SISTEMA_GCC/telainventarioexcel2.png)
+![tela inventario com a planilha 2](IMAGENS_SISTEMA_GCC/telainventarioexcel.png)
+
+
+
 
 ## Relatório da Receita Federal
-
+![tela receita 1](IMAGENS_SISTEMA_GCC/Telareceita1.png)
 O relatório da Receita Federal é focado em listar todas as cargas que chegaram ao aeroporto dentro de um intervalo de datas definido pelo usuário. Essa ferramenta é valiosa para acompanhar o fluxo de mercadorias ao longo do tempo, fornecendo informações essenciais para conformidade e controle.
 Ambos os tipos de relatórios possibilitam a exportação dos dados para o Excel. Essa funcionalidade é estratégica, pois facilita a visualização, análise e compartilhamento dos dados, fornecendo uma maneira eficaz e familiar para os usuários explorarem as informações detalhadas obtidas por meio das consultas.
+![tela receita 2](IMAGENS_SISTEMA_GCC/telareceita2.png)
+![tela receita 3](IMAGENS_SISTEMA_GCC/telareceita3.png)
+
 
 ### Autenticação Segura
-
+![tela cadastro](IMAGENS_SISTEMA_GCC/Teladecadrasto.png)
 O sistema conta com um mecanismo de login seguro, onde o acesso é gerenciado por senhas armazenadas de forma criptografada em um banco de dados. Isso garante a confidencialidade e segurança das informações, permitindo acesso restrito apenas a usuários autorizados.
 
 ### Consultas Eficientes
-
+![tela inicial](IMAGENS_SISTEMA_GCC/Telainicialgcc.png)
 Possibilita a realização de consultas rápidas e precisas em bancos de dados, oferecendo informações relevantes para a gerência comercial de cargas no Aeroporto Internacional de Viracopos.
+![tela inicial 2](IMAGENS_SISTEMA_GCC/telainicialgcc2.png)
 
 ### Automatização de Tarefas
 
