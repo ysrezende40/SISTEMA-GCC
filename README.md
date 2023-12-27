@@ -78,6 +78,9 @@ O sistema conta com um mecanismo de login seguro, onde o acesso é gerenciado po
 
 ### Consultas Eficientes
 Possibilita a realização de consultas rápidas e precisas em bancos de dados, oferecendo informações relevantes para a gerência comercial de cargas no Aeroporto Internacional de Viracopos.
+&nbsp;
+
+&nbsp;
 ![tela inicial](IMAGENS_SISTEMA_GCC/Telainicialgcc.png)
 &nbsp;
 
